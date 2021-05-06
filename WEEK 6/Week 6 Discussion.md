@@ -1,0 +1,11 @@
+## WEEK 6 DISCUSSION
+
+At first glance there are small changes that can be made to make sure problems aren't created. First every step needs to make sure to correctly include the required part or parts that are detailed in the step. So in step 2 where you are cutting the lower track, the track should be labeled and then shown in the included materials list. There should also be a list of needed materials that are not included in the package, like tools or caulking which are then used in the instructions.
+
+After putting these necessary changes into effect one important question needs to be answered. It occurs to me that the effectiveness of this set of graphical instructions depends entirely on the market of people that the product is being sold to. Since some people could be more experienced then others and some products are sold for professional  installation it is important to decided who this product will be sold to. If this product is being sold to someone who has no professional experience then some major changes need to be made. The usability would be entirely different based on the design basics presented in the instructions.
+
+This would mean that all steps would have to have sub steps that detail exactly how to do something the correct way. For example step 2 needs to be much more clear on cutting instructions. It should detail taking the measurement from step 1 and transferring it to the metal piece required then marking that measurement before cutting. This would most likely be broken down into 2-3 sub steps. This type of change would also have to be made to all other steps that involve cutting to a certain length.
+
+Another important piece is that step 7 needs a much better graphical image to show how exactly the door panels will look after the bearings are installed. This should be broken down into multiple steps each with images showing a picture of how the door panel should look after the step is completed.
+
+By changing the examples that were given and making other necessary changes the user experience of this could be made to fit all different markets of people. Most likely this simple diagram would have to be made into a booklet with many more steps then just 8. 
