@@ -1,0 +1,15 @@
+## WEEK 10 DISCUSSION
+
+In this final exam week of the course, write a 300-350 word (total) reflection about what you have learned about technical writing. In this reflection response, address each of the following topics in as a separate paragraph (so aiming for about 100 words for each prompt). Then, reply to TWO classmates' posts.
+
+  How has your understanding of technical writing changed from the beginning of this course to the end? (Be specific and provide examples from your week 1 discussion post and other discussions/learning activities over the course.)
+
+  I have taken writing classes before that encourage the type of short concise information packed sentences that this class went over so there wasn't a whole lot of new information that I learned in that perspective. If anything this class did a great job in reinforcing the knowledge and writing styles that I already had along with giving me practice. I also had the chance to write documents in this class, like the technical description, that also worked in my other class "system analysis 1". I even got feedback about how the formatting and writing was much more inline with what a real technical document should be. I believe this was due to the information I learned about knowing the audience and how you should write to the knowledge level that they possess.  
+
+  What have you learned specifically about the genres covered in this course (select any to discuss: project proposals, technical descriptions, technical instructions, usability reports, and completion reports) that you did not know before taking this course? (Be specific and provide examples from any of the course readings and activities.)
+
+  I did find the information about usability reports and technical instructions to be very helpful though. I think knowledge like that will come in handy when writing reports to superiors about new projects that I am working on. These kinds of writing are extremely important in business settings now days since there is often a divide between people either being remote or just to busy to meet and talk. Being able to detail accurate information that is relevant to a project along with giving my insight could be a great way to improve my working nature.
+
+  What have you learned generally about technical writing/editing skills and APA skills that you did not know before taking this class? (Be specific and provide examples from any of the course readings and activities.)
+
+  As I said above I already had a lot of knowledge about technical writing so most of what I did this class was just reinforcing my knowledge, but I did learn more about formatting with images that I didn't really know before. I had seen cited and described image like we had done in the usability report but I had never really looked at how to properly display figures within a document. I could also see this being a great skill for potential jobs where I'm working on a project that has a lot of design elements that could need to be discussed.
